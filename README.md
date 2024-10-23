@@ -2,6 +2,7 @@
 Chrome extention of smart-tab-grouping
 
 **作用说明：本地chrome插件**
+
 **实现功能：根据域名对页签进行自动分组并命名**
 
 ### background1.js
